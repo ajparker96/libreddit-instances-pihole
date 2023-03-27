@@ -9,7 +9,6 @@
 # Libreddit Instances List
 # ------------------------------------[FILTERS]-------------------------------------
 libreddit.spike.codes
-safereddit.com
 libreddit.kavin.rocks
 reddit.invak.id
 libreddit.eu.org
