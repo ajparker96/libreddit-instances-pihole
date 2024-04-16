@@ -3,10 +3,10 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 63
+# Total number of network filters: 78
 # -------------------------------------[INFO]---------------------------------------
 #
-# Libreddit Instances List
+# Libreddit/Redlib Instances List
 # ------------------------------------[FILTERS]-------------------------------------
 libreddit.spike.codes
 libreddit.kavin.rocks
@@ -70,3 +70,19 @@ libreddit.gq
 lr.ggtyler.dev
 lr.seitan-ayoub.lol
 lr.vector1.dev
+redlib.catsarch.com
+reddit.idevicehacked.com
+redlib.freedit.eu
+redlib.perennialte.ch
+redlib.tux.pizza
+redlib.vimmer.dev
+redlib.nohost.network
+redlib.ducks.party
+red.ngn.tf
+red.artemislena.eu
+redlib.dnfetheus.xyz
+redlib.cow.rip
+r.darrennathanael.com
+redlib.kittywi.re
+redlib.privacyredirect.com
+redlib.seasi.dev
