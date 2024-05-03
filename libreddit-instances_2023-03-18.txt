@@ -3,7 +3,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 81
+# Total number of network filters: 84
 # -------------------------------------[INFO]---------------------------------------
 #
 # Libreddit/Redlib Instances List
@@ -89,3 +89,6 @@ redlib.seasi.dev
 reddit.owo.si
 rl.bloat.cat
 lr.n8pjl.ca
+ggtyler.dev
+cal1.lr.ggtyler.dev
+par1.lr.ggtyler.dev
