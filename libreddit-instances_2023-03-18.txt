@@ -92,4 +92,5 @@ lr.n8pjl.ca
 ggtyler.dev
 cal1.lr.ggtyler.dev
 par1.lr.ggtyler.dev
+nyc1.lr.ggtyler.dev
 reddit.cryptocalcu.top
