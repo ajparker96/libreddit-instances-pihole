@@ -3,7 +3,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 93
+# Total number of network filters: 95
 # -------------------------------------[INFO]---------------------------------------
 #
 # Libreddit/Redlib Instances List
@@ -102,3 +102,5 @@ reddit.nerdvpn.de
 redlib.baczek.me
 redlib.privacy.deals
 redlib.nezumi.party
+safereddit.com
+libreddit.in.projectsegfau.lt
