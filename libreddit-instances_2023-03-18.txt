@@ -3,7 +3,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 101
+# Total number of network filters: 102
 # -------------------------------------[INFO]---------------------------------------
 #
 # Libreddit/Redlib Instances List
@@ -110,3 +110,4 @@ libreddit.eu.projectsegfau.lt
 rl.citw.lgbt
 libreddit.diffraction.dev
 libreddit.fnen.eu.org
+libred.hyper.mywire.org
