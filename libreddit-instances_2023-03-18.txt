@@ -111,4 +111,4 @@ rl.citw.lgbt
 libreddit.diffraction.dev
 libreddit.fnen.eu.org
 libred.hyper.mywire.org
-https://lr.ptr.moe/
+lr.ptr.moe
