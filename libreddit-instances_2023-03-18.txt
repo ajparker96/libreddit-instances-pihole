@@ -115,3 +115,4 @@ lr.ptr.moe
 pirate.vodka
 red.floppa.cloud
 kddit.kalli.st
+reddit.claw.ovh
