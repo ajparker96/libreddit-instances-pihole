@@ -3,7 +3,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 108
+# Total number of network filters: 109
 # -------------------------------------[INFO]---------------------------------------
 #
 # Libreddit/Redlib Instances List
@@ -118,3 +118,4 @@ kddit.kalli.st
 reddit.claw.ovh
 eddrit.com
 reddit-viewer.com
+r.iii.st
